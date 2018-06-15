@@ -101,9 +101,9 @@ analytics:
 # Site Author
 author:
   name             : "Srinivasa D K"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "•	A talented, self-motivated and enthusiastic Data Scientist with skills and the ability to find hidden gems from large sets of structured, semi-structured and unstructured data."
-  location         : "Banglaore"
+  avatar           : "/images/bio-image.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Scicence Portfolio"
+  location         : "Banglaore, KA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -269,7 +269,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
