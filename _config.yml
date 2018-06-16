@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Machine Learning - Blockchain"
+title                    : "Transparent AI"
 title_separator          : "-"
 name                     : "Srinivasa D K"
 description              : "Data Scicence Portfolio."
