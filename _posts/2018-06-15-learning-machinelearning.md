@@ -15,11 +15,11 @@ First find a good tutorials and start learning the Machine learning by some easy
 
 Below are list of things you need to start working on:
 
-1) Python (Pandas, numpy, Scikit-learn, Matplotlib, Seaborn, Tensorflow )
-2) Maths (Basic Calculus, Linear Algebra, Probability, Statics)
-3) Actual Machine learning algorithms and models
-4) Hands on Project in ML (use the Kaggle dataset)
-5) Participate in Hackathons or Kaggle competition.
+  1) Python (Pandas, numpy, Scikit-learn, Matplotlib, Seaborn, Tensorflow )
+  2) Maths (Basic Calculus, Linear Algebra, Probability, Statics)
+  3) Actual Machine learning algorithms and models
+  4) Hands on Project in ML (use the Kaggle dataset)
+  5) Participate in Hackathons or Kaggle competition.
 
 Hope this will help you. Thanks!
 
